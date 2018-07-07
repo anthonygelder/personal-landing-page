@@ -1,0 +1,60 @@
+* {
+    font-family: "Lato", sans-serif;
+}
+
+img {
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+body {
+    background-image: url('../img/waves1.jpg');
+    border: 12px solid rgb(27,34,40);
+    border-bottom: 0;
+    max-width: 100%;
+}
+
+.w3-padding-64 {
+    border: 1px solid black;
+}
+
+.w3-bar {
+    background: rgb(27,34,40);
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+p {
+    color: powderblue;
+}
+
+a {
+    color: powderblue;
+}
+
+.fa {
+    color: white;
+}
+
+h1 {
+    background-color: rgb(27,34,40);
+    color: powderblue;
+    font-family: "Lato", sans-serif;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+.w3-left-align {
+    background-color: rgb(27,34,40);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+.w3-half {
+    height: 100%;
+}
+
+.about {
+    margin: 24px 30px 24% 11%;
+    width: 120%;
+}
